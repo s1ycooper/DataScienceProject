@@ -1,3 +1,5 @@
+!pip install streamlit pandas numpy scikit-learn plotly imbalanced-learn matplotlib seaborn
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
