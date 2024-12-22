@@ -1,4 +1,7 @@
 pandas
-streamlit
-matplotlib
+numpy
 seaborn
+matplotlib
+scikit-learn
+imbalanced-learn
+streamlit
