@@ -7,7 +7,7 @@ import seaborn as sns
 
 # Load datasets
 raw_data = pd.read_csv("https://raw.githubusercontent.com/s1ycooper/DataScienceProject/refs/heads/main/synthetic_insurance_data.csv")
-preprocessed_data = pd.read_csv("synthetic_insurance_data2.csv")
+preprocessed_data = pd.read_csv("https://raw.githubusercontent.com/s1ycooper/DataScienceProject/refs/heads/main/synthetic_insurance_data2.csv")
 
 # Page configuration
 st.set_page_config(page_title="Insurance Data Comparison", layout="wide")
